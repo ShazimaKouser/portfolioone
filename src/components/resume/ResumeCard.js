@@ -1,5 +1,3 @@
-import React from 'react'
-
 const ResumeCard = ({title,subTitle,result,des}) => {
   return (
     <div className="w-full h-1/3 group flex">
